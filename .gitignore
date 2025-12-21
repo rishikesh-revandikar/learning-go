@@ -31,3 +31,6 @@ thumbs.db
 # Environment variables (sensitive data)
 .env
 .env.local
+
+# Rough
+rough/*
