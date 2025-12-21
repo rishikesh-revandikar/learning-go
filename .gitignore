@@ -1,0 +1,33 @@
+# Binary builds
+# Only include the name of your specific binary if you have a fixed name
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Test binaries
+*.test
+
+# Output of 'go generate' (if you prefer to generate on build)
+# *.go
+
+# Dependency directories
+# Go modules usually handle this, but if you use 'go mod vendor', 
+# decide if you want to check it in or not.
+vendor/
+
+# IDE specific folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+thumbs.db
+
+# Environment variables (sensitive data)
+.env
+.env.local
