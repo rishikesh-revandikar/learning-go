@@ -4,10 +4,10 @@ Welcome to my Go learning journey! This repository contains my progress, notes, 
 
 ## 📅 The Roadmap
 
-| Day | Module | Focus |
-|:---:|:---|:---|:---:|
-| 01-07 | **Basics** | Syntax, Loops, Slices, Maps |
-| 08-14 | **Intermediate** | Pointers, Structs, Interfaces |
+| Day | Module | Focus | 
+|:---:|:---|:---|
+| 01-07 | **Basics** | Syntax, Loops, Slices, Maps | 
+| 08-14 | **Intermediate** | Pointers, Structs, Interfaces | 
 | 15-21 | **Concurrency** | Goroutines, Channels, Mutex |
 | 22-30 | **Production** | REST API, SQL, slog, Testing |
 
